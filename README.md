@@ -5,11 +5,14 @@
 ## <div align="center">Here is ✨ **月ヶ瀬** ✨</div> 
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=tkgs0&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt="gitHub streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tkgs0&title=Stars,Followers,PullRequest,Commits,Repositories,Issues&no-frame=true&margin-w=10"  alt="github profile trophy"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-trophy.vercel.app/?username=tkgs0&title=Stars,Followers,PullRequest,Commits,Repositories,Issues&no-frame=true&column=3&margin-w=10&margin-h=10&theme=onedark"
+      width="350" height="auto">
+    <img alt="GitHub Profile Trophy"
+      src="https://github-profile-trophy.vercel.app/?username=tkgs0&title=Stars,Followers,PullRequest,Commits,Repositories,Issues&no-frame=true&column=3&margin-w=10&margin-h=10"
+      width="350" height="auto">
+  </picture>
 </p>
 
 ### <div align="center">📊 Github Stats</div>
